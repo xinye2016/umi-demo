@@ -1,0 +1,9 @@
+.todoList {
+  margin: 10px;
+  text-align: center;
+}
+
+.list {
+  width: 600px;
+  display: inline-block;
+}
